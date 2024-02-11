@@ -1,0 +1,18 @@
+W.A.P that declare two double variable (rdius,area) and compute area of circle.
+
+import java.until.*;
+public class Program_2
+{
+  public Static void main(String[]args)
+  {
+    Scanner get = new Scanner (System.in);
+
+    float radius;
+    float area;
+
+    System.out.println("enter radius of circle");
+    radius=get.next float();
+
+    System.out.println("The area of circle is::"+3.14*radius*radius);
+  }
+}
